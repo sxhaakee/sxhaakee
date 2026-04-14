@@ -27,17 +27,15 @@ const shakeeb = {
   wins:        ["IIT Kharagpur", "Malnad CoE", "St. Aloysius", "4+ More"],
   mantra:      "Ship fast, break things, fix them with AI."
 };
+```
 
-
-🛠️ Tech Arsenal
 <div align="center">
 
-🌐 Frontend & Core Architecture
-🤖 AI Intelligence & Automation
-🗄️ Backend & Cloud Ops
+**🌐 Frontend & Core Architecture** | **🤖 AI Intelligence & Automation** | **🗄️ Backend & Cloud Ops**
+
 </div>
 
-🚀 Flagship Innovations
+## 🚀 Flagship Innovations
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -81,17 +79,24 @@ const shakeeb = {
 </tr>
 </table>
 
-📊 Performance Metrics
+## 📊 Performance Metrics
+
 <div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sxhaakee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxhaakee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
+
 </div>
 
 <div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxhaakee&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" />
+
 </div>
 
-🤝 Connect for the Future
+## 🤝 Connect for the Future
+
 <div align="center">
 
 Currently open to Founding Engineer roles & SWE Internships at hyper-growth startups.
