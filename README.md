@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/sxhaakee">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=900&lines=🏆+6x+Hackathon+Champion+Across+AI%2C+Web3%2C+AgriTech;🚀+Founding+Engineer+%40+LumaaX+—+Building+$30K+ARR+SaaS;🤖+Architecting+Multi-Agent+AI+Systems+with+LangGraph;💼+Application+Developer+Intern+%40+NIVETTI+SYSTEMS;⚡+Next.js+%7C+Supabase+%7C+Mistral+AI+%7C+LangGraph;🌍+CSE+Pre-Final+%40+P.A.+College+of+Engg%2C+Mangaluru" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=900&lines=🏆+6x+Hackathon+Champion+Across+AI%2C+Web3%2C+AgriTech;🚀+Founding+Engineer+%40+LumaaX+—+Building+$30K+ARR+SaaS;🤖+Architecting+Multi-Agent+AI+Systems+with+LangGraph;💼+Application+Developer+Intern+%40+NIVETTI+SYSTEMS;⚡+Next.js+%7C+Supabase+%7C+Mistral+AI+%7C+LangGraph;🌍+CSE+Pre-Final+%40+P.A.+College+of+Engg%2C+Mangaluru" />
 </a>
 
 <br/>
@@ -25,19 +25,21 @@
 <!-- ABOUT ME -->
 ## 🎯 About Me
 
-```typescript
-const shakeeb = {
-  identity:     "Product-First Engineer & AI Pioneer",
-  role:         "Pre-Final Year CSE @ P.A. College of Engineering, Mangaluru",
-  founding:     "LumaaX 🚀 — AI SaaS startup (with Haashid & Sinan)",
-  interning:    "Application Developer @ NIVETTI SYSTEMS PVT LTD",
-  ambassador:   "Bybit ByBUIDLER Campus Ambassador",
-  expertise:    "Multi-Agent AI | Full-Stack Web | SaaS Architecture",
-  victories:    "🏆 6x Hackathon Winner — IIT Kharagpur, Malnad CoE, & Beyond",
-  mantra:       "Ship fast, break things, fix them with AI before chai",
-  seeking:      "Founding Engineer / SWE roles at ambitious startups"
-};
-```
+<div align="center">
+
+| | |
+|---|---|
+| **🚀 Identity** | Product-First Engineer & AI Pioneer |
+| **🎓 Role** | Pre-Final Year CSE @ P.A. College of Engineering |
+| **💡 Founding** | LumaaX — AI SaaS startup (with Haashid & Sinan) |
+| **💼 Interning** | Application Developer @ NIVETTI SYSTEMS PVT LTD |
+| **🌟 Expertise** | Multi-Agent AI • Full-Stack Web • SaaS Architecture |
+| **🏆 Victories** | 6x Hackathon Winner — IIT Kharagpur, Malnad CoE, & Beyond |
+| **🎯 Ambassador** | Bybit ByBUIDLER Campus Ambassador |
+| **⚡ Mantra** | Ship fast, break things, fix them with AI before chai ☕ |
+| **🔍 Seeking** | Founding Engineer / SWE roles at ambitious startups |
+
+</div>
 
 ---
 
@@ -252,26 +254,18 @@ const shakeeb = {
 <!-- CURRENT FOCUS -->
 ## 🔥 What I'm Building Right Now
 
-```javascript
-const thisMonth = {
-  shipping: [
-    "📊 TruthHire → $30K ARR milestone with 7-agent AI pipeline",
-    "🏘️ NeighbourFriendly → P2P Parking & Community Marketplace (Q2 2026)",
-    "🤖 Multi-agent AI research — advancing LangGraph capabilities"
-  ],
-  deepDiving: [
-    "🧠 Advanced agentic AI systems & reasoning frameworks",
-    "📈 SaaS product architecture & PLG strategies",
-    "🌍 Scalable full-stack development patterns"
-  ],
-  openFor: [
-    "🚀 Founding Engineer roles at pre-seed/seed startups",
-    "💼 Senior SWE Internships (graduating June 2026)",
-    "🤝 Technical founder partnerships & collaborations",
-    "💰 Enterprise SaaS development projects"
-  ]
-};
-```
+<div align="center">
+
+### 📊 Shipping
+![TruthHire](https://img.shields.io/badge/TruthHire-$30K%20ARR-FF6B35?style=for-the-badge&logo=rocket) ![NeighbourFriendly](https://img.shields.io/badge/NeighbourFriendly-Q2%202026-00d4ff?style=for-the-badge&logo=map) ![LangGraph](https://img.shields.io/badge/Multi--Agent%20AI-Advancing-9370DB?style=for-the-badge&logo=sparkles)
+
+### 🧠 Deep Diving Into
+![AI Systems](https://img.shields.io/badge/Advanced%20AI-Systems-FF4785?style=for-the-badge) ![SaaS](https://img.shields.io/badge/Product%20Architecture-PLG-3ECF8E?style=for-the-badge) ![Scalability](https://img.shields.io/badge/Scalable%20Architecture-FullStack-FFD700?style=for-the-badge)
+
+### 🚀 Open For
+![Founding Engineer](https://img.shields.io/badge/Founding%20Engineer-Pre%2FSeed-00c853?style=for-the-badge&logo=lightning) ![SWE](https://img.shields.io/badge/Senior%20SWE%20Internship-2026-0A66C2?style=for-the-badge&logo=code) ![Partnerships](https://img.shields.io/badge/Technical%20Partnerships-Collaborate-1a1a2e?style=for-the-badge&logo=handshake) ![Enterprise](https://img.shields.io/badge/Enterprise%20SaaS-Projects-FFA500?style=for-the-badge)
+
+</div>
 
 ---
 
