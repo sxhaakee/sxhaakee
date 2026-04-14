@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/sxhaakee">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&lines=🏆+6x+Hackathon+Winner+%7C+IIT+Kharagpur+%26+Beyond;🚀+Founding+Engineer+%7C+AI+%2B+Full-Stack;🤖+Building+TruthHire+%26+NeighbourFriendly;⚡+Next.js+%7C+Supabase+%7C+LangGraph+%7C+Mistral;🌍+CSE+%40+P.A.+College+of+Engineering%2C+Mangaluru" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=900&lines=🏆+6x+Hackathon+Champion+Across+AI%2C+Web3%2C+AgriTech;🚀+Founding+Engineer+%40+LumaaX+—+Building+$30K+ARR+SaaS;🤖+Architecting+Multi-Agent+AI+Systems+with+LangGraph;💼+Application+Developer+Intern+%40+NIVETTI+SYSTEMS;⚡+Next.js+%7C+Supabase+%7C+Mistral+AI+%7C+LangGraph;🌍+CSE+Pre-Final+%40+P.A.+College+of+Engg%2C+Mangaluru" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,19 +23,19 @@
 ---
 
 <!-- ABOUT ME -->
-## ⚡ About Me
+## 🎯 About Me
 
 ```typescript
 const shakeeb = {
-  role:        "Student Founder & Pre-Final Year CSE @ PA College of Engg, Mangaluru",
-  team:        "LumaaX 🚀 (with Haashid & Sinan)",
-  building:    ["TruthHire — AI Interview Intelligence SaaS",
-                "NeighbourFriendly — P2P Parking & Community Marketplace"],
-  ambassador:  "Bybit ByBUIDLER Campus Ambassador",
-  wins:        "🏆 6x Hackathon Winner (incl. IIT Kharagpur, Malnad CoE)",
-  stack:       ["Next.js", "Supabase", "Mistral API", "LangGraph", "Socket.IO"],
-  currentFocus:"Founding Engineer / SWE Internship @ World-Class Companies",
-  funFact:     "I build AI agents before my morning chai ☕"
+  identity:     "Product-First Engineer & AI Pioneer",
+  role:         "Pre-Final Year CSE @ P.A. College of Engineering, Mangaluru",
+  founding:     "LumaaX 🚀 — AI SaaS startup (with Haashid & Sinan)",
+  interning:    "Application Developer @ NIVETTI SYSTEMS PVT LTD",
+  ambassador:   "Bybit ByBUIDLER Campus Ambassador",
+  expertise:    "Multi-Agent AI | Full-Stack Web | SaaS Architecture",
+  victories:    "🏆 6x Hackathon Winner — IIT Kharagpur, Malnad CoE, & Beyond",
+  mantra:       "Ship fast, break things, fix them with AI before chai",
+  seeking:      "Founding Engineer / SWE roles at ambitious startups"
 };
 ```
 
@@ -250,27 +250,25 @@ const shakeeb = {
 ---
 
 <!-- CURRENT FOCUS -->
-## 🎯 What I'm Up To
+## 🔥 What I'm Building Right Now
 
 ```javascript
-const currentStatus = {
-  working: "Application Developer Intern @ NIVETTI SYSTEMS PVT LTD",
-  building: [
-    "📊 TruthHire → Scaling to $30K ARR with AI-powered interview intelligence",
-    "🏘️ NeighbourFriendly → P2P parking marketplace launching Q2 2026",
-    "💼 LumaaX → Freelance SaaS development with 3-person founding team"
+const thisMonth = {
+  shipping: [
+    "📊 TruthHire → $30K ARR milestone with 7-agent AI pipeline",
+    "🏘️ NeighbourFriendly → P2P Parking & Community Marketplace (Q2 2026)",
+    "🤖 Multi-agent AI research — advancing LangGraph capabilities"
   ],
-  seeking: "Founding Engineer / SWE Internship at fast-moving companies",
-  learning: [
-    "Advanced multi-agent AI systems with LangGraph",
-    "Scalable SaaS architecture patterns",
-    "Product-led growth strategies"
+  deepDiving: [
+    "🧠 Advanced agentic AI systems & reasoning frameworks",
+    "📈 SaaS product architecture & PLG strategies",
+    "🌍 Scalable full-stack development patterns"
   ],
-  openTo: [
-    "💼 Full-time SWE opportunities (2026 grad)",
-    "🚀 Founding engineer roles at early-stage startups", 
-    "🤝 Collaborative hackathon projects",
-    "💡 Technical co-founder partnerships"
+  openFor: [
+    "🚀 Founding Engineer roles at pre-seed/seed startups",
+    "💼 Senior SWE Internships (graduating June 2026)",
+    "🤝 Technical founder partnerships & collaborations",
+    "💰 Enterprise SaaS development projects"
   ]
 };
 ```
