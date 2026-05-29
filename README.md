@@ -40,7 +40,7 @@ const shakeeb = {
 
 <div align="center">
 
-![6x Champion](https://img.shields.io/badge/🏆_Total_Wins-6x_National_Champion-FFD700?style=for-the-badge&labelColor=0d1117)
+![7x Champion](https://img.shields.io/badge/🏆_Total_Wins-6x_National_Champion-FFD700?style=for-the-badge&labelColor=0d1117)
 ![IIT Kharagpur](https://img.shields.io/badge/🏛️_IIT_Kharagpur-Winner-58a6ff?style=for-the-badge&labelColor=0d1117)
 ![Malnad CoE](https://img.shields.io/badge/🏛️_Malnad_CoE-Winner-58a6ff?style=for-the-badge&labelColor=0d1117)
 
