@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1a1a2e,100:58a6ff&height=220&section=header&text=Mohammed%20Shakeeb&fontSize=56&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Founding%20Engineer%20%E2%80%A2%206x%20Hackathon%20Champion%20%E2%80%A2%20AI%20Architect&descSize=18&descAlignY=55&descColor=58a6ff" />
 
 <a href="https://github.com/sxhaakee">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%8F%86+6x+National+Hackathon+Champion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%8F%86+7x+National+Hackathon+Champion" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,9 +22,9 @@
 
 ```typescript
 const shakeeb = {
-  role:        "Application Developer Intern @ Nivetti Systems Pvt Ltd",
+  role:        "Application Developer, JavaScript developer"
   education:   "Pre-Final Year CSE @ P.A. College of Engineering, Mangaluru",
-  team:        "LumaaX 🚀 — Co-Founded with Haashid & Sinan",
+  team:        "Meridian",
   building:    ["TruthHire — AI Interview Intelligence SaaS",
                 "NeighbourFriendly — P2P Parking & Community Marketplace"],
   stack:       ["Next.js", "React", "TypeScript", "Supabase", "LangGraph",
@@ -40,7 +40,7 @@ const shakeeb = {
 
 <div align="center">
 
-![7x Champion](https://img.shields.io/badge/🏆_Total_Wins-6x_National_Champion-FFD700?style=for-the-badge&labelColor=0d1117)
+![7x Champion](https://img.shields.io/badge/🏆_Total_Wins-7x_National_Champion-FFD700?style=for-the-badge&labelColor=0d1117)
 ![IIT Kharagpur](https://img.shields.io/badge/🏛️_IIT_Kharagpur-Winner-58a6ff?style=for-the-badge&labelColor=0d1117)
 ![Malnad CoE](https://img.shields.io/badge/🏛️_Malnad_CoE-Winner-58a6ff?style=for-the-badge&labelColor=0d1117)
 
@@ -96,7 +96,7 @@ const shakeeb = {
 
 ```javascript
 const now = {
-  working:  "App Developer Intern @ Nivetti Systems",
+
   building: ["TruthHire → AI Interview SaaS",
              "NeighbourFriendly → P2P Marketplace",
              "LumaaX → Freelance SaaS Studio"],
