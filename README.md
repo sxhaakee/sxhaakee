@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1a1a2e,100:58a6ff&height=220&section=header&text=Mohammed%20Shakeeb&fontSize=56&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Founding%20Engineer%20%E2%80%A2%206x%20Hackathon%20Champion%20%E2%80%A2%20AI%20Architect&descSize=18&descAlignY=55&descColor=58a6ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1a1a2e,100:58a6ff&height=220&section=header&text=Mohammed%20Shakeeb&fontSize=56&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Founding%20Engineer%20%E2%80%A2%207x%20Hackathon%20Champion%20%E2%80%A2%20AI%20Architect&descSize=18&descAlignY=55&descColor=58a6ff" />
 
 <a href="https://github.com/sxhaakee">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%8F%86+7x+National+Hackathon+Champion" alt="Typing SVG" />
