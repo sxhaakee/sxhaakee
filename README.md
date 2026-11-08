@@ -22,14 +22,11 @@
 
 ```typescript
 const shakeeb = {
-  role:        "Application Developer, JavaScript developer"
-  education:   "Pre-Final Year CSE @ P.A. College of Engineering, Mangaluru",
-  team:        "Meridian",
-  building:    ["TruthHire — AI Interview Intelligence SaaS",
-                "NeighbourFriendly — P2P Parking & Community Marketplace"],
-  stack:       ["Next.js", "React", "TypeScript", "Supabase", "LangGraph",
+  education:   "Final Year CSE @ P.A. College of Engineering, Mangaluru",
+  Learning:    "AWS Solutions Architect"
+  stack:       ["AWS", "Next.js", "React", "TypeScript", "Supabase", "LangGraph",
                 "Mistral AI", "Socket.IO", "Python", "PostgreSQL"],
-  seeking:     "Founding Engineer / SWE roles at world-class companies",
+  seeking:     "Cloud Engineer / Software Developer"
   funFact:     "I ship production AI products in 48-hour hackathons ⚡"
 };
 ```
