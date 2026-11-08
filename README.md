@@ -144,7 +144,7 @@ const now = {
 
 <div align="center">
 
-**Looking for Founding Engineer / SWE roles at companies that ship fast.**
+**Looking for Opportunities where I can contribute, learn and grow.**
 
 <a href="https://www.linkedin.com/in/mohammed-shakeeb-a04317266/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
