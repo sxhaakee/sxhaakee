@@ -93,15 +93,12 @@ const shakeeb = {
 
 ```javascript
 const now = {
-
-  building: ["TruthHire → AI Interview SaaS",
-             "NeighbourFriendly → P2P Marketplace",
-             "LumaaX → Freelance SaaS Studio"],
-  learning: ["Multi-agent AI with LangGraph",
-             "Scalable real-time architecture",
-             "Product-led growth"],
+  learning: ["Cloud deployment",
+             "Infrastructure as Code",
+             "Cloud Migrations"]
   openTo:   ["Founding Engineer roles",
-             "SWE Internships at hyper-growth startups",
+             "Cloud Engineer",
+             "Software Engineer"
              "Hackathon collaborations"]
 };
 ```
