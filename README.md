@@ -39,7 +39,7 @@ const shakeeb = {
 
 ![7x Podiums](https://img.shields.io/badge/🏆_Hackathon_Podiums-7x_National-FFD700?style=for-the-badge&labelColor=0d1117)
 ![IIT Kharagpur](https://img.shields.io/badge/🏛️_IIT_Kharagpur-2nd_Runner--Up-58a6ff?style=for-the-badge&labelColor=0d1117)
-![Malnad CoE](https://img.shields.io/badge/🏛️_Malnad_CoE-Winner-58a6ff?style=for-the-badge&labelColor=0d1117)
+![Krishimanthan Runner-Up](https://img.shields.io/badge/🏛️_Krishimanthan_(Malnad_CoE)-Runner--Up-58a6ff?style=for-the-badge&labelColor=0d1117)
 
 **⛓️ WeilChain Nexus** — 2nd Runner-Up at the IIT Kharagpur national final (top 3 of 52 shortlisted teams)
 
