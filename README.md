@@ -38,10 +38,10 @@ const shakeeb = {
 <div align="center">
 
 ![7x Champion](https://img.shields.io/badge/🏆_Total_Wins-7x_National_Champion-FFD700?style=for-the-badge&labelColor=0d1117)
-![IIT Kharagpur](https://img.shields.io/badge/🏛️_IIT_Kharagpur-Winner-58a6ff?style=for-the-badge&labelColor=0d1117)
+![IIT Kharagpur](https://img.shields.io/badge/🏛️_IIT_Kharagpur-2nd_Runner--Up-58a6ff?style=for-the-badge&labelColor=0d1117)
 ![Malnad CoE](https://img.shields.io/badge/🏛️_Malnad_CoE-Winner-58a6ff?style=for-the-badge&labelColor=0d1117)
 
-**⛓️ WeilChain Nexus** — Won at IIT Kharagpur against top national teams
+**⛓️ WeilChain Nexus** — 2nd Runner-Up at the IIT Kharagpur national final (top 3 of 52 shortlisted teams)
 
 ![AI/SaaS](https://img.shields.io/badge/AI%2FSaaS-58a6ff?style=flat-square)
 ![AgriTech](https://img.shields.io/badge/AgriTech-238636?style=flat-square)
